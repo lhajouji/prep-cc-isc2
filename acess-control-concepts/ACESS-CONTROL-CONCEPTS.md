@@ -4,8 +4,8 @@
 ## Overview
 | Concept            | Description                                                  |
 |--------------------|--------------------------------------------------------------|
-| Subject            | Refers to an agent or entity that can access resources        |
-| Object             | Refers to the resource being protected                        |
+| Subject            | Refers to an agent or entity that can access resources/Assets        |
+| Object             | Refers to the resource being protected ( anytning that a subject attelots to access )                       |
 | Rules              | Are rules that specify how subjects can access objects and what they can do with them. Rules may be based on specific security policies and restrictions. |
 
 ## Reviewing
