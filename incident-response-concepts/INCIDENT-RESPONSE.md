@@ -5,7 +5,7 @@
 
     | Component | Example  |
     | --- | --- |
-    | Preparation | Develop a policy approved by management, Identify critical data and systems, single points of failure, Train staff on incident response.  |
+    | Preparation | Develop a policy approved by management, Identify critical data and systems and any single points of failure, Train staff on incident response.  |
     | Detection and Analysis | Monitor all possible attack vectors, Analyze incident using known data and threat intelligence, Standardize incident documentation, Prioritize incident response  |
     | Contaiment, eradication and recovery |  Isolate the attack, Identify the attacker, Choose an appropriate containment strategy, Gather evidence |
     | Post-Incident Activity | Identify evidence that may need to be retained, Document lessons learned, Retrospective (preparation, Detection, containment, Post-Incident)|
