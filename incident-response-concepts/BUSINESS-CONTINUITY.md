@@ -1,9 +1,8 @@
 # Business Continuity (BC)
 
 The intent of a business continuity plan is to sustain business operations while recovering from a significant disruption. 
-
+Firts, BCP is the proactive development of procedures to restore business operations after a disaster or other significant disruption to the organization.
 ## Components of a Business Continuity Plan (BCP)
-- Firts, BCP is the proactive development of procedures to restore business operations after a disaster or other significant disruption to the organization.
 - List of the BCP team members, including multiple contact methods and backup members
 - Immediate response procedures and checklists (security and safety procedures, fire suppression procedures, - notification of appropriate emergency-response agencies, etc.)
 - Notification systems and call trees for alerting personnel that the BCP is being enacted
