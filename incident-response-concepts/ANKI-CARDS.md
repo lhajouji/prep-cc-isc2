@@ -22,4 +22,4 @@
 | **Incident Response Plan (IRP)** |The documentation of a predetermined set of instructions or procedures to detect, respond to and limit consequences of a malicious cyberattack against an organization's information systems(s).  |
 | Security Operations Center |A centralized organizational function fulfilled by an information security team that monitors, detects and analyzes events on the network or system to prevent and resolve issues before they result in business disruptions. |
 | Vulnerability |Weakness in an information system, system security procedures, internal controls or implementation that could be exploited or triggered by a threat source. |
-
+| Red Book | The red book serves as a hard copy backup accessible outside the facility, containing outlined procedures in case electronic access is unavailable.
