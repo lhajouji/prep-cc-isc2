@@ -5,6 +5,7 @@
 |    A set of routines, standards, protocols, and tools for building software applications to access a web-based software application or web tool.      |    API      |
 | The most essential representation of data (zero or one) at Layer 1 of the Open Systems Interconnection (OSI) model.  |     Bit     |
 | transmission is a one-to-many (one-to-everyone) form of sending internet traffic.      |    Broadcast      |
+| Demilitarized Zones (DMZ) are a portion of the network which interfaces directly with the outside world and has more security controls and restrictions than its wider IT environment|    DMZ      |
 | is a unit of digital information that most commonly consists of eight bits.      |    Byte      |
 |  A model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.   |    Cloud Computing      |
 | A system in which the cloud infrastructure is provisioned for exclusive use by a specific community of consumers from organizations that have shared concerns (e.g., mission, security requirements, policy and compliance considerations). It may be owned, managed and operated by one or more of the organizations in the community, a third party or some combination of them, and it may exist on or off premises.     |     Community Cloud    |
