@@ -20,6 +20,7 @@
 | Tool | Description | Identifies Threats | Prevents Threats |
 | --- | --- | --- | --- |
 | IDS (Intrusion Detection System) | Real-time intrusion detection system that monitors and analyzes network traffic for suspicious activity. | ✔️ | |
+| IPS (Intrusion Prevention System) | Real-time intrusion prevention system that monitors network traffic for suspicious activity and automatically blocks them. | ✔️ | |
 | HIDS (Host-based Intrusion Detection System) | Host-based intrusion detection system that monitors activity on a specific operating system for suspicious activity. | ✔️ | |
 | NIDS (Network-based Intrusion Detection System) | Network-based intrusion detection system that monitors network traffic for suspicious activity. | ✔️ | |
 | SIEM (Security Information and Event Management) | Security information and event management system that collects and analyzes information from various sources to identify security threats. | ✔️ | |
