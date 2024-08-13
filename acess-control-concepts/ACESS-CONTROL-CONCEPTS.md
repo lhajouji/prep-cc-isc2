@@ -1,5 +1,5 @@
 # Security Control
-- **A control** is a safeguard or countermeasure designed to preserve Confidentiality, Integrity and Availability of data.
+- **A control** is a safeguard or countermeasure designed to preserve Confidentiality, Integrity and Availability of data. ( CIA Triad ) 
 
 ## Overview
 | Concept            | Description                                                  |
