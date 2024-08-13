@@ -38,6 +38,7 @@
 | Faking the sending address of a transmission to gain illegal entry into a secure system.         |   Spoofing       |
 | Internetworking protocol model created by the IETF, which specifies four layers of functionality: Link layer (physical communications), Internet Layer (network-to-network communication), Transport Layer (basic channels for connections and connectionless exchange of data between hosts), and Application Layer, where other protocols and user applications programs make use of network services.         |    Transport Control Protocol/Internet Protocol (TCP/IP) Model      |
 | A virtual local area network (VLAN) is a logical group of workstations, servers, and network devices that appear to be on the same LAN despite their geographical distribution         |    VLAN      |
+| attacks that allow a malicious user to see traffic from other VLANs | “VLAN hopping” |
 |  A virtual private network (VPN), built on top of existing networks, that can provide a secure communications mechanism for transmission between networks.        |    VPN      |
 |   A wireless area network (WLAN) is a group of computers and devices that are located in the same vicinity, forming a network based on radio transmissions rather than wired connections. A Wi-Fi network is a type of WLAN.       |     WLAN    |
 |  The graphical user interface (GUI) for the Nmap Security Scanner, an open-source application that scans networks to determine everything that is connected as well as other information.        |    Zenmap      |
