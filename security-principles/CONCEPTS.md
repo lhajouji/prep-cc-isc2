@@ -9,7 +9,7 @@
 
 ## Authentication
 Here we have some examples of common methods of authentication:
-- **Something you know**: Password or paraphrases (The most insercurity auth method)
+- **Something you know**: Password or paraphrases (The most insecure auth method)
 - **Something you have**: Tokens, memory cards, smart cards;
 - **Something you are**: Biometrics, measurable characteristics, fingerprints, voice, iris patterns;
 
