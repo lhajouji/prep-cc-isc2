@@ -1,6 +1,6 @@
 # Governance Elements : 
 
-| Regulations|  --> | Standards|  --> | Policies|  --> | Procedures| 
+ Regulations -->  Standards  -->  Policies  --> Procedures
 
 | Governance Elements | Explanation                                                                 | Examples        |
 |---------------------|-----------------------------------------------------------------------------|---------------------------------|
