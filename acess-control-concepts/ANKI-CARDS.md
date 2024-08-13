@@ -2,7 +2,8 @@
 
 | Definition | Terms |
 | --- | --- | 
-|an information security strategy that integrates people,technology, and operations capabilities to establish variable barriers across multiple layers and missions of the organization,A technical example of defense in depth in which multiple layers of technical controls is *MFA* |Defense in depth |  
+|an information security strategy that integrates people,technology, and operations capabilities to establish variable barriers across multiple layers and missions of the organization,A technical example of defense in depth in which multiple layers of technical controls is *MFA* |Defense in depth |
+| each user is granted access to only the items they need and nothing further | Least Privilege |
 |Independent review and examination of records and activities to assess the adequacy of system controls, to ensure compliance with established policies and operational procedures. NIST SP 1800-15B  | Audit |  
 | An architectural approach to the design of buildings and spaces which emphasizes passive features to reduce the likelihood of criminal activity. | Crime Prevention through Environmental Design (CPTED) |  
 | Information security strategy integrating people, technology, and operations capabilities to establish variable barriers across multiple layers and missions of the organization. Source: NIST SP 800-53 Rev 4 | Defense in Depth |  
