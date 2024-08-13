@@ -12,6 +12,7 @@
 |    The opposite process of encapsulation, in which bundles of data are unpacked or revealed     |    De-encapsulation      |
 | The prevention of authorized access to resources or the delaying of time-critical operations. (Time-critical may be milliseconds or it may be hours, depending upon the service provided.)        |     Denial Of Service     |
 |     This acronym can be applied to three interrelated elements: a service, a physical server and a network protocol.     |    DNS      |
+| A WAF has an internal and an external connection, monitoring all traffic from the outside for malicious behavior before passing commands to a web server.| WAF |
 |Enforcement of data hiding and code hiding during all phases of software development and operational use. Bundling together data and methods is the process of encapsulation; its opposite process may be called unpacking, revealing, or using other terms. Also used to refer to taking any set of data and packaging it or hiding it in another data structure, as is common in network protocols and encryption.          |     Encapsulation     |
 |     The process and act of converting the message from its plaintext to ciphertext. Sometimes it is also referred to as enciphering. The two terms are sometimes used interchangeably in literature and have similar meanings     |    Encryption      |
 |     The internet protocol (and program) used to transfer files between hosts.     |     FTP     |
