@@ -19,7 +19,7 @@
 # Tools used to identify and prevent threats
 | Tool | Description | Identifies Threats | Prevents Threats |
 | --- | --- | --- | --- |
-| IPS (Intrusion Prevention System) | Real-time intrusion prevention system that monitors network traffic for suspicious activity and automatically blocks them. |  | ✔️ |
+| IPS (Intrusion Prevention System) | Real-time intrusion prevention system that monitors network traffic for suspicious activity and automatically blocks them. | ✔️ | ✔️ |
 | IDS (Intrusion Detection System) | Real-time intrusion detection system that monitors and analyzes network traffic for suspicious activity. | ✔️ | |
 | HIDS (Host-based Intrusion Detection System) | Host-based intrusion detection system that monitors activity on a specific operating system for suspicious activity. | ✔️ | |
 | NIDS (Network-based Intrusion Detection System) | Network-based intrusion detection system that monitors network traffic for suspicious activity. | ✔️ | |
