@@ -14,7 +14,7 @@ We will talk about the types of acess controls: Physical, Logical and Administra
 | Layer               | Description                                                  | Real-world analogy |
 |---------------------|--------------------------------------------------------------|--------------------|
 | Physical Controls   | Refers to tangible security measures, such as gates, fences, security cameras, and locks. | A locked door or a fence around a property |
-| Logical/Technical Controls | Refers to technical measures, such as firewalls, intrusion detection systems, and access controls. | A security system in a building |
+| Logical/Technical Controls | Refers to technical measures or electronic methods, such as firewalls, intrusion detection systems, and access controls. | A security system in a building |
 | Administrative Controls | Refers to policies, procedures, and guidelines that define how security is managed and enforced. Examples include security training, background checks, and security audits. | The security policies and procedures of a company or organization. |
 
 ### Physical Controls:
