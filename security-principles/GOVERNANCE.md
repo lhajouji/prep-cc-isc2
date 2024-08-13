@@ -1,4 +1,4 @@
-# Governance Elements
+# Governance Elements : Reculations --> Standards --> Policies --> Procedures
 | Governance Elements | Explanation                                                                 | Examples        |
 |---------------------|-----------------------------------------------------------------------------|---------------------------------|
 | Laws and Regulations|  **Regulations** are commonly issued in the form of laws, usually from government (not to be confused with governance) and typically carry financial penalties for non-compliance. **Legal requirements** established by governments or regulatory bodies that organizations must comply with. | Traffic laws and regulations on the road, General Data Protection Regulation (GDPR), Health Insurance Portability and Accountability Act (HIPAA) |
